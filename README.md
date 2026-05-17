@@ -214,6 +214,11 @@ Aspiring Data Scientist / Data Analyst
 🔗 LinkedIn:
 https://www.linkedin.com/in/pujithapandrakola
 
+# 🌐 Live Demo
+
+🔗 Streamlit Application:  
+https://global-development-cluster-analysis-jhr973y4jk6cuvwkciq2pq.streamlit.app/
+
 ---
 
 # ⭐ Conclusion
